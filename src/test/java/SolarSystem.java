@@ -11,9 +11,15 @@ public class SolarSystem {
         Archilies.size="50meters";
         Archilies.temp="90000000";
 
+
         Planet1 slayer =new Planet1();
         slayer.color="green";
         slayer.temp="-908k";
+
+        Planet2 nobel= new Planet2();
+        nobel.temp="10000000k";
+        nobel.color="black";
+
     }
 
 }
